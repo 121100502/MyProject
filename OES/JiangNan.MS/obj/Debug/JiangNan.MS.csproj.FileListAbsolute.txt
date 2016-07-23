@@ -1,0 +1,11 @@
+F:\myproject\OES\JiangNan.MS\bin\Debug\JiangNan.MS.dll
+F:\myproject\OES\JiangNan.MS\bin\Debug\JiangNan.MS.pdb
+F:\myproject\OES\JiangNan.MS\bin\Debug\Dos.ORM.dll
+F:\myproject\OES\JiangNan.MS\bin\Debug\JiangNan.Untility.dll
+F:\myproject\OES\JiangNan.MS\bin\Debug\Newtonsoft.Json.dll
+F:\myproject\OES\JiangNan.MS\bin\Debug\Dos.ORM.pdb
+F:\myproject\OES\JiangNan.MS\bin\Debug\JiangNan.Untility.pdb
+F:\myproject\OES\JiangNan.MS\bin\Debug\Newtonsoft.Json.xml
+F:\myproject\OES\JiangNan.MS\obj\Debug\JiangNan.MS.csprojResolveAssemblyReference.cache
+F:\myproject\OES\JiangNan.MS\obj\Debug\JiangNan.MS.dll
+F:\myproject\OES\JiangNan.MS\obj\Debug\JiangNan.MS.pdb

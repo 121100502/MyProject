@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2363915-1807-4F0A-8133-819940B00948}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JiangNan.MS</RootNamespace>
+    <AssemblyName>JiangNan.MS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net35\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\CallBackStatusHelper.cs" />
+    <Compile Include="BLL\CollegeHelper.cs" />
+    <Compile Include="BLL\DegreeFormHeler.cs" />
+    <Compile Include="BLL\DeptmentTran.cs" />
+    <Compile Include="BLL\LearnCenterTran.cs" />
+    <Compile Include="BLL\LoginHelper.cs" />
+    <Compile Include="BLL\majorHelper.cs" />
+    <Compile Include="BLL\SecondLevelHelper.cs" />
+    <Compile Include="BLL\UserTran.cs" />
+    <Compile Include="Common\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\TreeCollege.cs" />
+    <Compile Include="DataMap\CallBackStatus.cs" />
+    <Compile Include="DataMap\CollegeMajor.cs" />
+    <Compile Include="DataMap\Colleges.cs" />
+    <Compile Include="DataMap\DegreeForm.cs" />
+    <Compile Include="DataMap\Deptment.cs" />
+    <Compile Include="DataMap\LearnCenter.cs" />
+    <Compile Include="DataMap\Level.cs" />
+    <Compile Include="DataMap\LoginLog.cs" />
+    <Compile Include="DataMap\MS_SecondLevelConfig.cs" />
+    <Compile Include="DataMap\SecondLevelConfig.cs" />
+    <Compile Include="DataMap\SecondLevelConfigItem.cs" />
+    <Compile Include="DataMap\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="InfterFace\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dos.ORM\Dos.ORM.csproj">
+      <Project>{4c913748-65c1-490d-a2ce-47762f4bf1f8}</Project>
+      <Name>Dos.ORM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JiangNan.Untility\JiangNan.Untility.csproj">
+      <Project>{561af80e-1747-4a78-a6a5-1a385ef789bc}</Project>
+      <Name>JiangNan.Untility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

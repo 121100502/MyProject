@@ -1,0 +1,11 @@
+F:\myproject\OES\JianNan.CRM\bin\Debug\JianNan.CRM.dll
+F:\myproject\OES\JianNan.CRM\bin\Debug\JianNan.CRM.pdb
+F:\myproject\OES\JianNan.CRM\bin\Debug\Dos.ORM.dll
+F:\myproject\OES\JianNan.CRM\bin\Debug\JiangNan.MS.dll
+F:\myproject\OES\JianNan.CRM\bin\Debug\JiangNan.Untility.dll
+F:\myproject\OES\JianNan.CRM\bin\Debug\Dos.ORM.pdb
+F:\myproject\OES\JianNan.CRM\bin\Debug\JiangNan.MS.pdb
+F:\myproject\OES\JianNan.CRM\bin\Debug\JiangNan.Untility.pdb
+F:\myproject\OES\JianNan.CRM\obj\Debug\JianNan.CRM.csprojResolveAssemblyReference.cache
+F:\myproject\OES\JianNan.CRM\obj\Debug\JianNan.CRM.dll
+F:\myproject\OES\JianNan.CRM\obj\Debug\JianNan.CRM.pdb

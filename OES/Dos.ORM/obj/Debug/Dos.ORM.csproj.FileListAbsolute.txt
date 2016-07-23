@@ -1,0 +1,9 @@
+F:\myproject\zaizhi\zaizhi\Dos.ORM\bin\Debug\Dos.ORM.dll
+F:\myproject\zaizhi\zaizhi\Dos.ORM\bin\Debug\Dos.ORM.pdb
+F:\myproject\zaizhi\zaizhi\Dos.ORM\obj\Debug\Dos.ORM.dll
+F:\myproject\zaizhi\zaizhi\Dos.ORM\obj\Debug\Dos.ORM.pdb
+F:\myproject\zaizhi\zaizhi\Dos.ORM\obj\Debug\Dos.ORM.csprojResolveAssemblyReference.cache
+F:\myproject\OES\Dos.ORM\bin\Debug\Dos.ORM.dll
+F:\myproject\OES\Dos.ORM\bin\Debug\Dos.ORM.pdb
+F:\myproject\OES\Dos.ORM\obj\Debug\Dos.ORM.dll
+F:\myproject\OES\Dos.ORM\obj\Debug\Dos.ORM.pdb

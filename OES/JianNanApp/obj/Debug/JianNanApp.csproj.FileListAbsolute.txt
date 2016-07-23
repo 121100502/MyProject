@@ -1,0 +1,14 @@
+F:\myproject\OES\JianNanApp\bin\JianNanApp.dll.config
+F:\myproject\OES\JianNanApp\bin\JianNanApp.dll
+F:\myproject\OES\JianNanApp\bin\JianNanApp.pdb
+F:\myproject\OES\JianNanApp\obj\Debug\JianNanApp.dll
+F:\myproject\OES\JianNanApp\obj\Debug\JianNanApp.pdb
+F:\myproject\OES\JianNanApp\obj\Debug\JianNanApp.csprojResolveAssemblyReference.cache
+F:\myproject\OES\JianNanApp\bin\Dos.ORM.dll
+F:\myproject\OES\JianNanApp\bin\JiangNan.MS.dll
+F:\myproject\OES\JianNanApp\bin\JiangNan.Untility.dll
+F:\myproject\OES\JianNanApp\bin\JianNan.CRM.dll
+F:\myproject\OES\JianNanApp\bin\Dos.ORM.pdb
+F:\myproject\OES\JianNanApp\bin\JiangNan.MS.pdb
+F:\myproject\OES\JianNanApp\bin\JiangNan.Untility.pdb
+F:\myproject\OES\JianNanApp\bin\JianNan.CRM.pdb

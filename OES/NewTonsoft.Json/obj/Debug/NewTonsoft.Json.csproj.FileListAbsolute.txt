@@ -1,0 +1,4 @@
+F:\myproject\OES\NewTonsoft.Json\bin\Debug\NewTonsoft.Json.dll
+F:\myproject\OES\NewTonsoft.Json\bin\Debug\NewTonsoft.Json.pdb
+F:\myproject\OES\NewTonsoft.Json\obj\Debug\NewTonsoft.Json.dll
+F:\myproject\OES\NewTonsoft.Json\obj\Debug\NewTonsoft.Json.pdb
